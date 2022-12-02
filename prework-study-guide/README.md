@@ -2,13 +2,6 @@
 
 ## Description
 
-Provide a short description explaining the what, why, and how of your project. Use the following questions as a guide:
-
-- What was your motivation?
-- Why did you build this project? (Note: the answer is not "Because it was a homework assignment.")
-- What problem does it solve?
-- What did you learn?
-
 A prework study guide used to put what I've learned about HTML, CSS JavaScript and Git Flow into practice in a working and deployed web application. The motivation behind this project was to learn the basics of web development so I'm prepared to learn even more and go into greater detail when the bootcamp begins! I built this project to showcase what I've learned and become familar with the development process of a web application, going through the process of structing the website with HTML, styling it with CSS, making it interactive with JavaScript, and getting familar with version control system Git. My prework study guide solves the problem of having all my notes on HTML, CSS, JavaScript and Git in one accessible and readable. In this project, I learnt the basics of web development with HTML, CSS, and JavaScript. In addition to this, I also learnt how to use the version control system Git. Not to mention, the pre-work study guide also taught me to think like a developer, emphasised the importance of mental resillience and having a growth mindset.
 
 
