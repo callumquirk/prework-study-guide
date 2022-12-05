@@ -19,7 +19,7 @@ From there, you can read the information/notes on the various topics. Choose whi
 In order to see the JavaScript in action, you need to press CTRL+SHIFT+C on your keyboard if you are using Windows to open the Chrome DevTools, and from there click 'console'. In the console, you can see the JavaScript functions in action. See the following screenshot for reference. The JavaScript functions list what topics are in the prework study guide, and even randomly suggests which topic to start studying!
 
 
-![alt text](assets/images/javascript-console-explainer.png)
+![alt text](prework-study-guide/assets/images/javascript-console-explainer.png)
 
 ## Credits
 
